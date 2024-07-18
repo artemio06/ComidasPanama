@@ -1,0 +1,54 @@
+{
+    "meals": [
+        {
+            "strMeal": "Sancocho Panameño",
+            "strMealThumb": "https://www.196flavors.com/wp-content/uploads/2018/10/sancocho-3-FP.jpg",
+            "idMeal": "60101"
+        },
+        {
+            "strMeal": "Arroz con Pollo",
+            "strMealThumb": "https://conectadasla.com/wp-content/uploads/2019/08/arroz-con-pollo-y-especias-copy.png",
+            "idMeal": "60102"
+        },
+        {
+            "strMeal": "Carimañolas",
+            "strMealThumb": "https://familiakitchen.com/wp-content/uploads/2021/09/Cariman%CC%83olas-Panama-1-2-e1631817686865.jpg",
+            "idMeal": "60103"
+        },
+        {
+            "strMeal": "Tamales Panameños",
+            "strMealThumb": "https://boquitaspanama.com/wp-content/uploads/2022/12/tamal-de-pollo.jpg",
+            "idMeal": "60104"
+        },
+        {
+            "strMeal": "Ropa Vieja",
+            "strMealThumb": "https://cdn.recetasderechupete.com/wp-content/uploads/2023/02/ropa-vieja-cubana.jpg",
+            "idMeal": "60105"
+        },
+        {
+            "strMeal": "Ceviche de Corvina",
+            "strMealThumb": "https://www.recetaspanama.com/base/stock/Recipe/ceviche-de-corvina-panameno/ceviche-de-corvina-panameno_web.jpg.webp",
+            "idMeal": "60106"
+        },
+        {
+            "strMeal": "Hojaldres",
+            "strMealThumb": "https://img-global.cpcdn.com/recipes/239f53d97e56ed4a/400x400cq70/photo.jpg",
+            "idMeal": "60107"
+        },
+        {
+            "strMeal": "Patacones",
+            "strMealThumb": "https://lashadaspanama.com/wp-content/uploads/2021/06/Acompanamientos-Patacones_1-e1694097697189.png",
+            "idMeal": "60108"
+        },
+        {
+            "strMeal": "Chicheme",
+            "strMealThumb": "https://www.nashifood.com/wp-content/uploads/2020/11/chicheme-panameno.jpg",
+            "idMeal": "60109"
+        },
+        {
+            "strMeal": "Arroz con Guandú",
+            "strMealThumb": "https://arrossisimo.com/wp-content/uploads/2021/05/arrozconcocoyguandu.jpg",
+            "idMeal": "60110"
+        }
+    ]
+}
